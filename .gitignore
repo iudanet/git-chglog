@@ -1,7 +1,7 @@
 /tmp
 /.tmp
 /dist
-
+vendor
 # Created by https://www.gitignore.io/api/osx,macos,go
 
 ### Go ###
